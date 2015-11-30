@@ -18,11 +18,11 @@
            sync-c="true"
            sync-j="4" />
 
-<!-- BEGIN CYANOGENMOD -->
+<!-- BEGIN VanillaUnicorn (CM based) -->
   <project path="build" name="CyanogenMod/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="CyanogenMod/android" />
+  <project path="android" name="VanillaCoding/android" />
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="CyanogenMod/android_bionic" groups="pdk" />
@@ -128,7 +128,7 @@
   <project path="external/zip" name="CyanogenMod/android_external_zip" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/base" name="VanillaCoding/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
@@ -249,7 +249,7 @@
   <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" groups="pdk-fs" />
   <project path="packages/apps/Screencast" name="CyanogenMod/android_packages_apps_Screencast" />
-  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" groups="pdk-fs" />
+  <project path="packages/apps/Settings" name="VanillaCoding/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="packages/apps/SetupWizard" name="CyanogenMod/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" groups="pdk-fs" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" groups="pdk-fs" />
