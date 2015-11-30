@@ -1,4 +1,5 @@
-CyanogenMod
+Vanilla Unicorn based on CyanogenMod version 13
+
 ===========
 
 Submitting Patches
@@ -29,9 +30,9 @@ Getting Started
 To get started with Android/CyanogenMod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
-To initialize your local repository using the CyanogenMod trees, use a command like this:
+To initialize your local repository using the CyanogenMod and VanillaUnicorn trees, use a command like this:
 
-    repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
+    repo init -u git://github.com/VanillaUnicorn/android.git -b cm-13.0
 
 Then to sync up:
 
