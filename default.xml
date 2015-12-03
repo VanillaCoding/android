@@ -8,6 +8,11 @@
            
   <remote  name="kitkat"
            fetch="https://github.com/" />
+           
+           
+  <remote  name="CyanogenMod"
+           fetch="https://github.com/cyanogenmod"
+           review="review.cyanogenmod.org" />
 
   <remote  name="github"
            fetch=".."
