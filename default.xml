@@ -6,6 +6,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-6.0.1_r3" />
            
+  <remote  name="vu"
+           fetch="git://github.com/VanillaCoding"
+           revision="cm-13.0" />
+           
   <remote  name="kitkat"
            fetch="https://github.com/" />
   
