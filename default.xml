@@ -68,7 +68,7 @@
   <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm" revision="cm-13.0" />
   <project name="android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="vu" revision="cm-13.0" />
-  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="tm" revision="cm-13.0" />
+  <project name="proprietary_vendor_samsung" path="vendor/samsung" remote="vu" revision="cm-13.0" />
   <project name="android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="vu" revision="cm-13.0" />
   <project name="VanillaCoding/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
