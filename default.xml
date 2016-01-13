@@ -72,6 +72,7 @@
   <project name="android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="vu" revision="cm-13.0" />
   <project name="VanillaCoding/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
+  <project name="VanillaCoding/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-13.0" />
   
   <!-- External -->
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
