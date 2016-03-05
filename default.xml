@@ -76,10 +76,11 @@
   <project name="VanillaCoding/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-13.0" />
   <project name="VanillaCoding/android_device_moto_shamu" path="device/moto/shamu" remote="github" revision="cm-13.0" />
   <project name="VanillaCoding/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="cm-13.0" />
-  <project name="android_device_moto_qcom-common" path="device/moto/qcom-common" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="VanillaCoding/android_device_moto_qcom-common" path="device/moto/qcom-common" remote="github" revision="cm-13.0" />
   <project name="android_device_lge_qcom-common" path="device/lge/qcom-common" remote="CyanogenMod" revision="cm-13.0" />
-  <project name="VanillaCoding/android_kernel_lge_h815" path="kernel/lge/h815" remote="github" revision="cm-13.0" />
+  <project name="android_kernel_lge_h815" path="kernel/lge/h815" remote="CyanogenMod" revision="cm-13.0" />
 
+  <!-- -Temporary-Device -->
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
   <project path="external/android/support-prebuilt" name="CyanogenMod/external_android_support-prebuilt" revision="master" />
