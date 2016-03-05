@@ -75,6 +75,8 @@
   <project name="VanillaCoding/android_device_samsung_trltexx" path="device/samsung/trltexx" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="github" />
   <project name="VanillaCoding/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-13.0" />
+  <project name="VanillaCoding/android_device_moto_shamu" path="device/moto/shamu" remote="github" revision="cm-13.0" />
+  <project name="VanillaCoding/android_kernel_moto_shamu" path="kernel/moto/shamu" remote="github" revision="cm-13.0" />
   
   <!-- External -->
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
