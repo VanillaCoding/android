@@ -79,6 +79,8 @@
   <project name="android_device_motorola_qcom-common" path="device/moto/qcom-common" remote="vu" revision="cm-13.0" />
   <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="vu" revision="cm-13.0" />
+  
 
   <!-- -external -->
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
