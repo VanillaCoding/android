@@ -77,7 +77,7 @@
   <project name="android_device_moto_shamu" path="device/moto/shamu" remote="vu" revision="cm-13.0" />
   <project name="android_kernel_moto_shamu" path="kernel/moto/shamu" remote="vu" revision="cm-13.0" />
   <project name="android_device_motorola_qcom-common" path="device/moto/qcom-common" remote="vu" revision="cm-13.0" />
-  <project name="android_device_lge_qcom-common" path="device/lge/qcom-common" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="CyanogenMod" revision="cm-13.0" />
 
   <!-- -external -->
