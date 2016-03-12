@@ -84,6 +84,8 @@
   <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="CyanogenMod" revision="cm-13.0" />
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="vu" revision="cm-13.0" />
+  <project name="android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="vu" revision="cm-13.0" />
+  <project name="android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="vu" revision="cm-13.0" />
   
 
   <!-- -external -->
