@@ -92,6 +92,7 @@
   <project name="android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="vu" revision="cm-13.0" />
   <project name="android_device_htc_m8-common" path="device/htc/m8-common" remote="vu" revision="cm-13.0" />
   <project name="android_device_htc_msm8974-common" path="device/htc/msm8974-common" remote="vu" revision="cm-13.0" />
+  <project name="proprietary_vendor_htc" path="vendor/htc" remote="CyanogenMod" revision="cm-13.0" />
 
   <!-- -external -->
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" groups="pdk-cw-fs,pdk-fs" />
