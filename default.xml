@@ -81,6 +81,8 @@
   <project name="android_device_lge_h815" path="device/lge/h815" remote="vu" revision="cm-13.0" />
   <project name="android_device_lge_g4-common" path="device/lge/g4-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="android_device_lge_hammerhead" path="device/lge/hammerhead" remote="vu" revision="cm-13.0" />
+  <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13.0" />
   
   <!-- Moto + Nexus -->
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="vu" revision="cm-13.0" />
