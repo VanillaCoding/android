@@ -84,8 +84,12 @@
   <project name="android_device_lge_hammerhead" path="device/lge/hammerhead" remote="vu" revision="cm-13.0" />
   <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13.0" />
   <project name="android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="CyanogenMod" revision="cm-13.0" />
-
   
+  <!-- Huawei -->
+  <project name="android_device_huawei_angler" path="device/huawei/angler" remote="vu" revision="cm-13.0" />
+  <project name="android_kernel_huawei_angler" path="kernel/huawei/angler" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="proprietary_vendor_huawei" path="vendor/huawei" remote="tm" revision="cm-13.0" />
+
   <!-- Moto + Nexus -->
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="vu" revision="cm-13.0" />
   <project name="android_device_moto_shamu" path="device/moto/shamu" remote="vu" revision="cm-13.0" />
