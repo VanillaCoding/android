@@ -84,6 +84,8 @@
   <project name="android_device_lge_hammerhead" path="device/lge/hammerhead" remote="vu" revision="cm-13.0" />
   <project name="proprietary_vendor_lge" path="vendor/lge" remote="tm" revision="cm-13.0" />
   <project name="android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="CyanogenMod" revision="cm-13.0" />
+  <project name="android_device_lge_bullhead" path="device/lge/bullhead" remote="vu" revision="cm-13.0" />
+  <project name="android_kernel_lge_bullhead" path="kernel/lge/bullhead" remote="CyanogenMod" revision="cm-13.0" />
   
   <!-- Huawei -->
   <project name="android_device_huawei_angler" path="device/huawei/angler" remote="vu" revision="cm-13.0" />
