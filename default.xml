@@ -119,6 +119,8 @@
   <project name="android_device_htc_msm8974-common" path="device/htc/msm8974-common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="proprietary_vendor_htc" path="vendor/htc" remote="tm" revision="cm-13.0" />
   <project name="android_device_htc_flounder" path="device/htc/flounder" remote="vu" revision="cm-13.0" />
+  <project name="android_kernel_htc_flounder" path="kernel/htc/flounder" remote="CyanogenMod" revision="cm-13.0" />
+
 
   <!-- -external -->
   <project path="external/ahbottomnavigation" name="CyanogenMod/android_external_ahbottomnavigation" />
