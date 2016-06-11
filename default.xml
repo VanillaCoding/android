@@ -106,11 +106,11 @@
   
   <!-- OnePlus -->
   <project name="android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="vu" revision="cm-13.0" />
-  <project name="android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="vu" revision="cm-13.0" />
+  <project name="android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="cm" revision="cm-13.0" />
   <project name="VanillaCoding/android_device_oneplus_bacon" path="device/oneplus/bacon" remote="github" revision="cm-13.0" />
   <project name="android_device_oppo_common" path="device/oppo/common" remote="CyanogenMod" revision="cm-13.0" />
   <project name="android_kernel_oneplus_msm8974" path="kernel/oneplus/msm8974" remote="CyanogenMod" revision="cm-13.0" />
-  <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="vu" revision="cm-13.0" />
+  <project name="proprietary_vendor_oneplus" path="vendor/oneplus" remote="tm" revision="cm-13.0" />
   
   <!-- htc -->
   <project name="android_device_htc_m8" path="device/htc/m8" remote="vu" revision="cm-13.0" />
