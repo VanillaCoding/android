@@ -29,6 +29,10 @@
   <remote  name="CyanogenMod"
            fetch="https://github.com/cyanogenmod"
            review="review.cyanogenmod.org" />
+           
+  <remote  name="cm"
+           fetch="https://github.com/cyanogenmod"
+           review="review.cyanogenmod.org" />
 
 
   <remote  name="github"
@@ -60,6 +64,8 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" groups="pdk-cw-fs,pdk-fs" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/opt/telephony" name="VanillaCoding/android_frameworks_opt_telephony" groups="pdk" />
+  <!-- Cm API --> 
+  <project path="external/cmsdk-api-coverage" name="CyanogenMod/android_external_cmsdk-api-coverage" />
   
    <!-- Device -->
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs,pdk-fs" />
